@@ -22,33 +22,33 @@
 - [ ] Functions
   - - [ ] Introduction
   - - [ ] Scoping in Java
-  - - [] Shadowing 
-  - - [] Variable Length Arguments
-  - - [] Overloading
-- [] Arrays
-  - - [] Introduction 
-  - - [] Memory management 
-  - - [] Input and Output
-  - - [] ArrayList Introduction
-  - - [] Sorting 
+  - - [ ] Shadowing 
+  - - [ ] Variable Length Arguments
+  - - [ ] Overloading
+- [ ] Arrays
+  - - [ ] Introduction 
+  - - [ ] Memory management 
+  - - [ ] Input and Output
+  - - [ ] ArrayList Introduction
+  - - [ ] Sorting 
     - - [] Insertion Sort
     - - [] Selection Sort
     - - [] Bubble Sort
     - - [] Cyclic Sort (Merge sort etc after recursion)
-  - [] Searching 
+  - [ ] Searching 
     - - [] Linear Search
     - - [] Binary Search
     - - [] Modified Binary Search
     - - [] Binary Search Interview questions
     - - [] Binary Search on 2D Arrays
-- [] Pattern questions
-- [] Strings
+- [ ] Pattern questions
+- [ ] Strings
     - [] Introduction
     - [] How Strings work
     - [] Comparison of methods
     - [] Operations in Strings
     - [] StringBuilder in java
-- [] Maths for DSA
+- [ ] Maths for DSA
     - - [] Introduction
     - - [] Complete Bitwise Operators
     - - [] Prime numbers
@@ -57,7 +57,7 @@
     - - [] Newton's Square Root Method
     - - [] Number Theory
     - - [] Euclidean algorithm
-- [] Space and Time Complexity Analysis
+- [ ] Space and Time Complexity Analysis
     - - [] Introduction
     - - [] Comparion of various cases
     - - [] Solving Linear Recurrence Relations
@@ -68,7 +68,7 @@
     - - [] Space Complexity 
     - - [] Memory Allocation of various languages
     - - [] NP Completeness and Hardness
-- [] Recursion
+- [ ] Recursion
     - - [] Introduction
     - - [] Why recursion?
     - - [] Flow of recursive programs - stacks
