@@ -1,27 +1,27 @@
 # Progress Tracker
 
 ## DSA
-- [] Complete Git & GitHub Course
-- [] Introduction to Programming
-  - - [] Types of languages
-  - - [] Memory management
-- [] Flow of the program
-  - - [] Flowcharts 
-  - - [] Pseudocode
-- [] Introduction to Java
-  - - [] Introduction
-  - - [] How it works
-  - - [] Setup Installation
-  - - [] Input and Output in Java
-  - - [] Conditionals & Loops in Java
+- [ ] Complete Git & GitHub Course
+- [ ] Introduction to Programming
+  - - [ ] Types of languages
+  - - [ ] Memory management
+- [ ] Flow of the program
+  - - [ ] Flowcharts 
+  - - [ ] Pseudocode
+- [ ] Introduction to Java
+  - - [ ] Introduction
+  - - [ ] How it works
+  - - [ ] Setup Installation
+  - - [ ] Input and Output in Java
+  - - [ ] Conditionals & Loops in Java
     - - [] if else
     - - [] loops
     - - [] Switch statements
-  - - [] Data types
-  - - [] Coding best practices
-- [] Functions
-  - - [] Introduction
-  - - [] Scoping in Java
+  - - [ ] Data types
+  - - [ ] Coding best practices
+- [ ] Functions
+  - - [ ] Introduction
+  - - [ ] Scoping in Java
   - - [] Shadowing 
   - - [] Variable Length Arguments
   - - [] Overloading
